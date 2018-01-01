@@ -14,4 +14,4 @@ for i in range(2, 10):
 
 # y = get_all_k_mer(s, k=2)
 
-	print(x)
+print(x)
