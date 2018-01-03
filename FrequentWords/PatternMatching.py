@@ -41,4 +41,4 @@ for i in range(i, countOccurrences):
 i = sequence.find(pattern)
 while count < (countOccurrences + 1):
 	b = sequence.find(pattern, i + 1)
-	count += 1
+	count += 1  
