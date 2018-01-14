@@ -1,0 +1,8 @@
+# PatternToNumber
+
+Exercise Break: Compute PatternToNumber(ATGCAA). (You can complete this exercise by hand.)
+([0*(4^5)] + [3*(4^4)] + [2*(4^3)] + [1*(4^2)] + [0*(4^1)] + [0*(4^0)]) = 0 + 768 + 128 + 16 + 0 + 0 = 912
+
+# NumberToPattern
+
+Exercise Break: Compute NumberToPattern(5437, 7). (You can complete this exercise by hand.)

@@ -1,3 +1,7 @@
+# Code Challenge: Implement PatternCount (reproduced below).
+#      Input: Strings Text and Pattern.
+#      Output: Count(Text, Pattern).
+
 # Sample Input:
 # GCGCG
 # GCG
